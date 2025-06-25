@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+nbformat
+pandas
+numpy
+matplotlib
+seaborn
+markdown
+plotly.express
